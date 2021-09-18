@@ -1,0 +1,3 @@
+[submodule "CocosCreator_FairyGUI/DemoProject/assets/scripts/Framework"]
+	path = CocosCreator_FairyGUI/DemoProject/assets/scripts/Framework
+	url = git@github.com:wy19910222/GameFrameworkForCreator.git

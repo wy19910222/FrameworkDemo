@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="444,52" restrictSize="340,0,0,0" extention="Label">
+  <displayList>
+    <component id="n0_x2nf" name="n0" src="hsdk2" fileName="Comp/BgBlack.xml" xy="0,0" size="444,52" group="n2_x2nf" alpha="0.5" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <text id="n1_x2nf" name="title" xy="160,5" size="124,42" group="n2_x2nf" fontSize="30" color="#ffffff" align="center" vAlign="middle" leading="0" singleLine="true" autoClearText="true" text="金币不足">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n2_x2nf" name="n2" xy="0,0" size="444,52" advanced="true"/>
+  </displayList>
+  <relation target="n1_x2nf" sidePair="width-width"/>
+  <transition name="TFadeIn">
+    <item time="0" type="Alpha" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="0" type="XY" target="n2_x2nf" tween="true" startValue="-,64" endValue="-,0" duration="6"/>
+  </transition>
+  <transition name="TFadeOut">
+    <item time="0" type="Alpha" tween="true" startValue="1" endValue="0" duration="6"/>
+  </transition>
+</component>

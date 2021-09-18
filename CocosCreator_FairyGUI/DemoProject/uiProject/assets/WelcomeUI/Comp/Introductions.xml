@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,120">
+  <displayList>
+    <graph id="n1_hsdk" name="n1" xy="0,0" size="1280,120" alpha="0.5" type="rect" lineSize="0" fillColor="#ff000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n0_hsdk" name="n0" xy="12,36" size="1256,74" fontSize="16" color="#ffffff" align="center" leading="6" text="著作权人：XXXX有限公司&#x9;ICP增值电信业务经营许可证：[XA0-00000000]&#x9;文网游备字：[0000]A-AAA 0000号&#x9;出版服务单位：XXXX有限公司&#xA;互联网出版许可证：[XXX证(X)字00号]&#x9;软著登记号：0000AA000000&#x9;审批文号：新广出审[0000]0000号&#x9;出版物号：AAAA 000-0-0000-0000-0&#x9;适龄提醒：18岁以上使用&#xA;健康游戏忠告：抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+  </displayList>
+</component>

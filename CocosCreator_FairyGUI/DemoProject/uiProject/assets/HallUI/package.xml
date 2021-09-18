@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="vm6gm0qw">
+  <resources>
+    <component id="hsdk0" name="Bg.xml" path="/Comp/"/>
+    <component id="hsdk4" name="View.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="" genCode="true" codePath="..\assets\scripts\Core\Hall"/>
+</packageDescription>

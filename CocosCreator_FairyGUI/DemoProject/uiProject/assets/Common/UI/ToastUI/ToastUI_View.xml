@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" opaque="false">
+  <displayList>
+    <component id="n1_x2nf" name="Window" src="du7j6" fileName="UI/ToastUI/ToastUI_Window.xml" xy="640,360" pivot="0.5,0.5" anchor="true" size="684,52" touchable="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+  <transition name="TFadeIn">
+    <item time="0" type="Transition" target="n1_x2nf" value="TFadeIn"/>
+  </transition>
+  <transition name="TFadeOut">
+    <item time="0" type="Transition" target="n1_x2nf" value="TFadeOut"/>
+  </transition>
+</component>

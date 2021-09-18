@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="avxff0ih">
+  <resources>
+    <component id="m4720" name="View.xml" path="/" exported="true"/>
+    <component id="hsdk1" name="Bg.xml" path="/Comp/"/>
+    <component id="affxg" name="ProgressBar.xml" path="/Comp/"/>
+    <component id="mxh621" name="CheckBox.xml" path="/Comp/"/>
+    <component id="hsdk2" name="Introductions.xml" path="/Comp/"/>
+  </resources>
+  <publish name="" genCode="true" codePath="..\assets\scripts\Core\Welcome"/>
+</packageDescription>

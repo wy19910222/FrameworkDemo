@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="16,16" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <graph id="n5_bb8p" name="n5" xy="0,0" size="16,16" type="rect" lineSize="0" fillColor="#ff000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+  </displayList>
+  <Button/>
+</component>

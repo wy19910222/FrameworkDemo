@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1024,576">
+  <displayList>
+    <component id="n0_x2nf" name="Collider" src="hsdk2" fileName="Comp/BgBlack.xml" xy="0,0" size="1024,576" alpha="0.6">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n1_x2nf" name="Window" src="du7j4" fileName="UI/DialogUI/DialogUI_Window.xml" xy="512,288" pivot="0.5,0.5" anchor="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+  <transition name="TFadeIn">
+    <item time="0" type="Alpha" tween="true" startValue="0" endValue="1" duration="7"/>
+    <item time="0" type="Scale" target="n1_x2nf" tween="true" startValue="0.9,0.9" endValue="1,1" duration="7"/>
+  </transition>
+  <transition name="TFadeOut">
+    <item time="0" type="Alpha" tween="true" startValue="1" endValue="0" duration="7"/>
+  </transition>
+</component>

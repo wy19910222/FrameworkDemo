@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,50" pivot="0.5,0.5" extention="Button">
+  <controller name="COffsetY" exported="true" pages="0,,1,,2,,3,,4,,5," selected="0"/>
+  <displayList>
+    <loader id="n0_x2nf" name="icon" xy="0,0" size="50,50" group="n2_x2nf" align="center" vAlign="middle">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n1_x2nf" name="title" xy="0,0" size="50,50" group="n2_x2nf" fontSize="12" color="#ffffff" align="center" vAlign="middle" leading="0" vars="true" autoSize="none" singleLine="true" text="">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n2_x2nf" name="n2" xy="0,0" size="50,50" advanced="true">
+      <gearXY controller="COffsetY" pages="0,1,2,3,4,5" values="0,0|0,1|0,2|0,3|0,4|0,5"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".97"/>
+</component>

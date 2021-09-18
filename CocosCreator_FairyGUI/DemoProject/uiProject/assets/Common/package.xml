@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="vbkyv0ue">
+  <resources>
+    <component id="hsdk0" name="View.xml" path="/"/>
+    <component id="hsdk1" name="BtnEmpty.xml" path="/Comp/" exported="true"/>
+    <component id="hsdk2" name="BgBlack.xml" path="/Comp/" exported="true"/>
+    <component id="du7j3" name="DialogUI_View.xml" path="/UI/DialogUI/" exported="true"/>
+    <component id="du7j4" name="DialogUI_Window.xml" path="/UI/DialogUI/"/>
+    <component id="du7j5" name="ToastUI_View.xml" path="/UI/ToastUI/" exported="true"/>
+    <component id="du7j6" name="ToastUI_Window.xml" path="/UI/ToastUI/"/>
+    <component id="du7j7" name="BtnConfirm.xml" path="/Comp/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

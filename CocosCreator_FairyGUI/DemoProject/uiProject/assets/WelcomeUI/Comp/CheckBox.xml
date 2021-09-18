@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,50" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="1"/>
+  <displayList>
+    <graph id="n0_mxh6" name="n0" xy="9,9" size="32,32" type="rect" fillColor="#7f000000">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </graph>
+    <text id="n1_mxh6" name="title" xy="2,-18" pivot="0.5,0.5" size="46,79" scale="1,0.7" fontSize="60" color="#ffffff" align="center" vAlign="middle" leading="0" strokeColor="#000000" singleLine="true" text="√">
+      <gearDisplay controller="button" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button mode="Check"/>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <loader id="n0_hsdk" name="n0" xy="0,0" size="1280,720" url="ui://vm6gm0qwhsdk0" align="center" vAlign="middle" fill="scaleNoBorder">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n1_hsdk" name="n1" xy="437,258" size="405,204" fontSize="160" leading="0" singleLine="true" text="HALL">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>
